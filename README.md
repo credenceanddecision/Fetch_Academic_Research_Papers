@@ -54,7 +54,7 @@ Upon running the tool, you'll get a display of the top 10 results for your searc
 
 The CSV files with all the results can be downloaded directly from the Colab environment after the execution of the notebook.
 
-## Project Citation
+## Project Credits
 
 This tool is based on the project:
 
