@@ -33,12 +33,6 @@ Fetching Papers from:
 4. Review the top 10 results displayed in a formatted table within the notebook.
 5. Access the full results saved as CSV files for further analysis.
 
-## Installation
-
-!git clone -q https://github.com/monk1337/resp.git
-!pip install -r ./resp/requirements.txt
-!pip install -q tabulate
-
 ## Executing the Tool
 
 Ensure you're in the correct directory and then run the code cells in the provided Colab notebook. The tool will output the top 10 results from each source and save all fetched results into CSV files.
